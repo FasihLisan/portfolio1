@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(245, 245, 245);
+    font-family: arial;
+    font-weight: bold;
+
+}
+
+#container {
+    background-color: white;
+    border: 3px solid grey;
+    padding: 2% 20% 2% 20%;
+    height: 100%;
+    border-radius: 2%;
+}
+
+#header {
+    line-height: 3px;
+    text-align: center;
+    font-size: 120%;
+    margin-bottom: 50px;
+    font-family: 'Henny Penny';
+}
+
+#header h1 {
+    letter-spacing: 10px;
+}
+
+#header h4,
+h3 {
+    font-weight: unset;
+    left: 5px;
+}
+
+#nav {
+    text-align: center;
+}
+
+#nav a {
+    color: black;
+    padding: 15px;
+    font-weight: bold;
+}
+
+#nav a:hover {
+    background-color: rgb(243, 243, 243);
+    border-radius: 20%;
+}
+
+#nav hr {
+    border-width: 2px;
+    margin: 20px;
+}
+
+#main {
+    text-align: center;
+    height: 100%;
+    font-family: 'Montserrat Alternates';
+}
+
+#main p {
+    padding-bottom: 600px;
+    line-height: 2;
+}
+
+.gambar img {
+    width: 250px;
+
+}
+
+#table {
+    text-align: center;
+    position: relative;
+    left: 35%;
+
+}
+
+#table tr:nth-child(even):hover {
+    background-color: #ff8c8c;
+}
+
+
+
+
+#footer {
+    text-align: center;
+    font-family: 'Montserrat Alternates';
+}
