@@ -15,7 +15,7 @@
         </div>
         <div id="nav">
             <hr>
-            <a href="home.php">HOME</a>
+            <a href="index.php">HOME</a>
             <a href="forsale.php">FOR SALE</a>
             <a href="#kontak">KONTAK</a>
             <a href="#visi_misi">VISI MISI</a>
